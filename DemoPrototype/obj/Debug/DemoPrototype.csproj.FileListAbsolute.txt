@@ -1,0 +1,7 @@
+C:\Users\VanDai\source\repos\DemoPrototype\DemoPrototype\bin\Debug\DemoPrototype.exe.config
+C:\Users\VanDai\source\repos\DemoPrototype\DemoPrototype\bin\Debug\DemoPrototype.exe
+C:\Users\VanDai\source\repos\DemoPrototype\DemoPrototype\bin\Debug\DemoPrototype.pdb
+C:\Users\VanDai\source\repos\DemoPrototype\DemoPrototype\obj\Debug\DemoPrototype.csproj.AssemblyReference.cache
+C:\Users\VanDai\source\repos\DemoPrototype\DemoPrototype\obj\Debug\DemoPrototype.csproj.CoreCompileInputs.cache
+C:\Users\VanDai\source\repos\DemoPrototype\DemoPrototype\obj\Debug\DemoPrototype.exe
+C:\Users\VanDai\source\repos\DemoPrototype\DemoPrototype\obj\Debug\DemoPrototype.pdb
